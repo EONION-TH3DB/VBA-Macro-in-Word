@@ -11,7 +11,7 @@ Dim code1 As String
 
 
 downUrl = "http://naver.com" 'Filler를 사용해서 다이렉트url을 구현했습니다. Fiddler 이용해서 구현해주세요!
-![image](https://user-images.githubusercontent.com/77016353/119981727-eafa5100-bff8-11eb-8ec7-bee208741a14.png)
+'![image](https://user-images.githubusercontent.com/77016353/119981727-eafa5100-bff8-11eb-8ec7-bee208741a14.png)
 Dim downDir As String
 downDir = "C:\Users\wjddj\OneDrive\Desktop\test\Y.ps1"
 
